@@ -1,0 +1,6 @@
+dependencies:
+- name: nginx
+  repository: https://nnethercott.github.io/helm-charts-practice/
+  version: 0.1.0
+digest: sha256:eda78407a42afbbadfa3ca560d2a4f7f68ad2a3432ce7a861cd6f72c19e2527e
+generated: "2026-01-02T18:41:02.195811-05:00"

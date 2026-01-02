@@ -1,0 +1,5 @@
+nginx:
+  replicaCount: 2
+
+  service:
+    enabled: false
